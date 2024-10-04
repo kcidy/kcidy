@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**kcidy/kcidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, я kcidy! 👋
 
-Here are some ideas to get you started:
+Я разработчик с опытом работы в **Java** и **Rust**. Стремлюсь создавать эффективные и надежные приложения, используя современные технологии и лучшие практики программирования.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Навыки
+
+- **Языки программирования:**
+  - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  - ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+- **Технологии и инструменты:**
+  - ASM(Java)
+  - Lombok(Java)
+  - FastUtil(Java)
+  - Spring Framework (Java)
+  - Actix (Rust)
+  - Docker
+  - Git
+
+- **Базы данных:**
+  - PostgreSQL
+  - MySQL
+
+## 🌱 В настоящее время изучаю
+
+- Асинхронное программирование в Rust
+- Микросервисную архитектуру
+
+## 📫 Как со мной связаться
+- [Discord](kcidy)
